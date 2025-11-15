@@ -1,6 +1,2 @@
-# DukeVentilator
-INSTALLATION
-This script belongs in ___ on the Raspberry pi. 
+# forked from DukeVentilator
 
-HOW TO RUN
-This script can be called by executing startMonitor.py
